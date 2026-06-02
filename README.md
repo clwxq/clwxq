@@ -8,5 +8,5 @@
 ## Other tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=github,figma,blender" />
+  <img src="https://skillicons.dev/icons?i=figma,blender" />
 </p>
