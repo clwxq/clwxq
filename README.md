@@ -2,5 +2,11 @@
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,react,python,html,css,mysql,git,github,figma,blender" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,react,python,html,css,mysql," />
+</p>
+
+## Other tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,github,figma,blender" />
 </p>
